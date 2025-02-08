@@ -60,6 +60,6 @@ MIT
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/Screenshot-1.png)
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/Screenshot-2.png)
