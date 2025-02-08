@@ -12,6 +12,10 @@ dist
 build
 dist-ssr
 *.local
+scripts
+images
+*.zip
+
 
 # Editor directories and files
 .vscode/*
