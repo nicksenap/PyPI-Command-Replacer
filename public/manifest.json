@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "PyPI Command Replacer",
+    "version": "1.0.0",
+    "description": "Choose your preferred package manager for PyPI.org",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": [
+      "storage"
+    ],
+    "host_permissions": ["*://*.pypi.org/*"],
+    "content_scripts": [
+      {
+        "matches": ["*://*.pypi.org/*"],
+        "js": ["content.js"]
+      }
+    ]
+}
