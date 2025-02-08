@@ -27,3 +27,5 @@ images
 *.njsproj
 *.sln
 *.sw?
+
+*.tsbuildinfo
